@@ -1,3 +1,7 @@
+Question(Developer): Building Three API Endpoints with Database Interaction.
+1. Endpoint 1: Retrieve All Books
+2. Endpoint 2: Add a New Book
+3. Endpoint 3: Update Book Details
 Project Description:
 
 This project is a web application that has been built using Node.js, Express.js and MongoDB. This project provides an easy to use interface for working with a MongoDB database to manage books. The README file will take you through the installation process and tell you how to run the application.
